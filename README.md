@@ -5,7 +5,7 @@ as a Dagster code location.
 
 Use it with the [Dagster code location](https://github.com/wodby/service-dagster-code)
 service (`dagster-code`) in the
-[buildable Dagster stack](https://github.com/wodby/stack-dagster-buildable).
+[Dagster stack](https://github.com/wodby/stack-dagster).
 
 ## Code
 
